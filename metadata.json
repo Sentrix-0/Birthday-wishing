@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Birthday Particles",
+  "description": "A real-time 3D particle system that uses Gemini AI to track hand gestures through your camera, changing shapes and colors to create a magical birthday experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
